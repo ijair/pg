@@ -1,0 +1,23 @@
+{
+  "name": "pg",
+  "version": "1.0.0",
+  "description": "Este proyecto configura un contenedor Docker de PostgreSQL 16 con la base de datos de ejemplo Northwind, configurado para aceptar conexiones externas en el puerto 5432.",
+  "main": "test-connection.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ijair/pg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ijair/pg/issues"
+  },
+  "homepage": "https://github.com/ijair/pg#readme",
+  "dependencies": {
+    "pg": "^8.16.3"
+  }
+}
